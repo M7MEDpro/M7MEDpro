@@ -17,10 +17,6 @@
 - 🎯 **Passion:** Building innovative solutions and solving complex problems  
 - 🧩 **Achievement:** 120+ Problems solved on CodeForces & LeetCode  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M7MEDpro&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
 ## 🔥 My GitHub Stats
 
 <div align="center">
