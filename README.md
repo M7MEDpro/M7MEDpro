@@ -113,9 +113,10 @@ Innovative systems that enhance and transform the gameplay experience
 
 ### 💾 Technologies I Use
 **📄 Configuration:** YAML, JSON, Properties  
-**🗄️ Databases:** MySQL, SQLite integration  
-**🔗 APIs:** Vault, WorldGuard, ProtocolLib  
-**⚡ Features:** GUIs, Commands, Events  
+**🗄️ Databases:** MySQL, SQLite, MongoDB  
+**🔗 APIs:** Various depending on the need  
+**⚡ Features:** GUIs, Commands, Events,Custom Items, etc
+
 
 **🚀 What I Build:**  
 Custom server solutions with clean code  
