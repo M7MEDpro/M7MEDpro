@@ -26,10 +26,8 @@
 <td width="50%">
 
 🎯 **Passion:** Building innovative solutions and solving complex problems  
-🧩 **Achievement:** 120+ Problems solved on CodeForces & LeetCode  
+🧩 **Problem-solving:** 120+ Problems solved on CodeForces & LeetCode  
 🎮 **Specialty:** Minecraft Plugin Development  
-🤖 **Interest:** IoT & Arduino Projects
-
 </td>
 </tr>
 </table>
@@ -108,9 +106,8 @@ Shop plugins with database integration
 **⚔️ Custom Items**  
 Custom weapons, tools, and special items
 
-**🌐 Network Plugins**  
-Cross-server communication systems
-
+**🧩 Unique Gameplay Systems**  
+Innovative systems that enhance and transform the gameplay experience
 </td>
 <td width="50%" align="center">
 
